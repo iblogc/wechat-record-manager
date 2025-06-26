@@ -44,7 +44,7 @@ node server.js
 
 ### API设置
 
-本项目默认连接到本地运行的chatlog API（http://127.0.0.1:5030）。如需修改API地址，请编辑`server.js`文件。
+本项目默认连接到本地运行的chatlog API（ http://127.0.0.1:5030 ）。如需修改API地址，请编辑`server.js`文件。
 
 ### AI设置
 
